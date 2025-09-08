@@ -44,5 +44,32 @@ To demonstrate practical manual testing skills through:
 - Using documentation tools effectively  
 
 ---
+## 📄 Test Artifacts
 
-👉 This project serves as a demonstration of **real-world manual QA practices** applied to an e-commerce web application.  
+✅ Test Plan
+
+<img width="522" height="722" alt="image" src="https://github.com/user-attachments/assets/705ab79c-2ee7-44de-acdd-fec35755466b" /> <img width="711" height="693" alt="image" src="https://github.com/user-attachments/assets/11afbffb-7f74-44c2-ad25-6748797596d2" />
+
+
+
+✅ Test Cases
+ <img width="913" height="471" alt="image" src="https://github.com/user-attachments/assets/7f62c7ac-8a3d-4de5-85c4-0a05c4d53405" />
+
+🐞 Bug Report
+
+
+<img width="590" height="274" alt="image" src="https://github.com/user-attachments/assets/b51ae314-f711-4611-8187-282e640b418b" />
+<img width="563" height="628" alt="image" src="https://github.com/user-attachments/assets/49c27c74-655f-488f-bbab-6976428f4b08" />
+
+
+## 📚 What I Learned
+- Structuring a complete manual testing cycle  
+- Writing clear and actionable bug reports  
+- Reporting with visual proof (screenshots, video links)  
+- Managing testing artifacts in a collaborative way (via GitHub)  
+
+---
+
+## 👤 Author & Tester
+**Md. Foysal Mahmud**  
+Software Quality Assurance Enginner | Passionate about quality, bugs, and clean test cases.  
